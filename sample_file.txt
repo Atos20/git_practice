@@ -1,3 +1,6 @@
 This is the first local repository that I was able to synchronized with Github
 The main goal of this exercise was to create a repository with a file that I could be able
-to upload to the internet. 
+to upload to the internet.
+
+I am  practicing how to save more changes into the file and making sure that my Git repository
+is also synchronized with my Github account.
