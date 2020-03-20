@@ -1,0 +1,3 @@
+This is the first local repository that I was able to synchronized with Github
+The main goal of this exercise was to create a repository with a file that I could be able
+to upload to the internet. 
